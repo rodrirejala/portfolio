@@ -1,8 +1,7 @@
 <div align="center">
-# Mi porfolio
+# Porfolio
 
-Este sera mi porfolio lo eh copiado dejo el README original abajo
-
+**Este sera mi porfolio lo eh copiado dejo el README original abajo**
 
 
 # Starfolio
