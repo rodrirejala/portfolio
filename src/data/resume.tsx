@@ -79,18 +79,18 @@ export const DATA = {
     { href: "/blog", icon: Library, label: "Blog" },
   ],
   contact: {
-    email: "alex@alexmercer.dev",
+    email: "rodrirejala@gmail.com",
     tel: "+1 512 000 0000",
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://github.com",
+        url: "https://github.com/rodrirejala",
         icon: Icons.github,
         navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://linkedin.com",
+        url: "https://www.linkedin.com/in/rodrigorejala",
         icon: Icons.linkedin,
         navbar: true,
       },
@@ -108,7 +108,7 @@ export const DATA = {
       },
       email: {
         name: "Send Email",
-        url: "mailto:alex@alexmercer.dev",
+        url: "mailto:rodrirejala@gmail.com",
         icon: Icons.email,
         navbar: false,
       },
