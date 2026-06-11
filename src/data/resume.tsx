@@ -20,12 +20,12 @@ export const DATA = {
   description:
     "I love computer science; I love building things, breaking things, and knowing how things work.",
   summary:
-    "In early 2023, I left a senior engineering role to go all-in on building my own SaaS products. Before that, [I completed a double degree in computer science and business](/#education), [interned at companies like Stripe and Cloudflare](/#work), and [competed in 18+ hackathons](/#hackathons). I also spent a summer in San Francisco as part of a founder residency focused on shipping fast and finding early customers.",
+    "It all started with a Pentium Dual Core and 3GB of RAM. A few months later, I had wiped everything to install Linux — probably the best decision I ever made without fully understanding what I was doing. Ever since, I've been passionate about everything tech: programming, building, and above all, contributing — which is the thing that gives me the most satisfaction.",
   avatarUrl: "/comp.png",
   ogImage: "/og_image.png",
   sections: {
     about: { order: 1, enabled: true, heading: "About" },
-    work: { order: 2, enabled: true, heading: "Work Experience", presentLabel: "Present" },
+    work: { order: 2, enabled: true, heading: "Eperience", presentLabel: "Present" },
     education: { order: 3, enabled: true, heading: "Education" },
     skills: { order: 4, enabled: true, heading: "Skills" },
     projects: {
